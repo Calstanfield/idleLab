@@ -248,3 +248,24 @@ root_agent = LlmAgent(
     agent_tool.AgentTool(agent=chloe_orchestrator_url_context_agent)
   ],
 )
+import os
+import threading
+from http.server import BaseHTTPRequestHandler, HTTPServer
+# Keep your existing agent logic running here...
+
+class SimpleServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"Agent is running!")
+
+def run_health_check_server():
+    port = int(os.environ.get("PORT", 8080))
+    server = HTTPServer(("0.0.0.0", port), SimpleServer)
+    server.serve_forever()
+
+# Starts the health check server in the background
+threading.Thread(target=run_health_check_server, daemon=True).start()
+import time
+while True:
+    time.sleep(3600)
