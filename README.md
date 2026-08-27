@@ -176,17 +176,17 @@ npm start
 Controls & Navigation:
 
 controlsAndNavigation: [
-    "1. Use WASD keys to move your avatar smoothly around the office, just like in Roblox.",
-    "2. Click and drag your mouse to rotate and adjust your camera view.",
+    "1. Use WASD keys or click your mouse in any direction to move your avatar smoothly around the office",
+    "2. Click and drag your mouse to rotate and adjust your camera view,just like Roblox",
     "3. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map.",
     "4. Avatar Customization: Click on settings inside the navigation tool to customize your avatar’s appearance to your liking."
-  ],
+    "5. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map.",
   
   floorTour: {
     floorB1: {
       name: "1. Floor B1 (Agentic Suite & Chloe Becker)",
       description: "Meet Chloe Becker, your task master and supervisor. Open the left control panel to access the built-in multiagent workspace tools.",
-      tip: "💡 Judge Note: We have provided example prompts inside Swiftwrite! Feel free to copy one of those sample prompts from Swiftwrite to test Chloe live when exploring the multiagent workspace."
+      tip: "💡 Judges Note: I have provided example prompts inside Swiftwrite! Feel free to copy one of those sample prompts from Swiftwrite to test Chloe live when exploring the multiagent workspace."
     },
     floor1: {
       name: "2. Floor 1 (Entry Hub)",
