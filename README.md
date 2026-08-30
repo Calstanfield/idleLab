@@ -123,9 +123,6 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
   - Avatar tennis racquet and swing animations are strictly restricted to the B1 Tennis Court.
 
 ---
-
-## 🛠️ Devpost "Setme" Quickstart Instructions
-
 ## 🛠️ Devpost "Setme" Quickstart Instructions
 
 **Step 1: Repository Setup and Required Assets**
