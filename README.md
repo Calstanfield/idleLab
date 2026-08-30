@@ -129,16 +129,21 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
 Follow these step-by-step instructions to configure, run, and test IdleLab locally or in the cloud:
 
 ### 1. Prerequisites
-- **Node.js:** v18.0.0 or higher
-- **npm** or **bun** package manager
-- **Google Gemini API Key** (obtain free from [Google AI Studio](https://aistudio.google.com/))
-- **Google Cloud / Firebase Project** (Firestore enabled)
 
-### 2. Configure Environment (`.env`)
-Create a `.env` file in the project root directory with your credentials:
+* **Node.js:** Ensure version 18.0.0 or higher is installed on your local machine.
+* **Package Manager:** `npm` (v9+) or `bun` installed globally.
+* **Python Runtime:** Ensure Python 3.10 or higher is installed for the backend orchestrator (`agent.py`).
+* **Google Gemini API Key:** Obtain a free developer key from Google AI Studio.
+* **Google Cloud / Firebase Account:** Access to a Google Cloud or Firebase project with Firestore enabled for real-time multiplayer state and session persistence.
+
+---
+
+### 2. Environment Configuration (`.env`)
+
+Create a new file named `.env` in the root directory of the project and populate it with your configuration credentials:
 
 ```env
-# Google Gemini API Key (Required for Multi-Agent Orchestration)
+# Google Gemini API Key (Required for Multi-Agent Orchestration & Claire/Chloe AI)
 GEMINI_API_KEY=your_gemini_api_key_here
 
 # Firebase / Google Cloud Firestore Configuration (Required for Persistence)
@@ -149,32 +154,8 @@ VITE_FIREBASE_STORAGE_BUCKET=your_project_id.appspot.com
 VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 
-# ElevenLabs TTS Configuration (Optional - Falls back to Web Speech API)
+# ElevenLabs TTS Configuration (Optional - Defaults to Web Speech API if omitted)
 VITE_ELEVENLABS_API_KEY=your_elevenlabs_key_here
-```
-
-### 3. Install Dependencies
-```bash
-npm install
-```
-
-### 4. Run Development Server
-```bash
-npm run dev
-```
-The application will launch on **http://localhost:3000** (or http://0.0.0.0:3000).
-
-### 5. Production Build & Start
-```bash
-# Build the Vite frontend and bundle server.ts via esbuild
-npm run build
-
-# Start the compiled production server
-npm start
-```
-
----
-
 ## 🗺️ Guided Tour for Judges & Reviewers
 
 **Controls & Navigation:**
