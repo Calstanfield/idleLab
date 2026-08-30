@@ -175,8 +175,6 @@ npm start
 
 Controls & Navigation:
 
-controlsAndNavigation: [
-    controlsAndNavigation: [
     "1. Use WASD keys or click your mouse in any direction to move your avatar smoothly around the office",
     "2. Click and drag your mouse to rotate and adjust your camera view, just like Roblox",
     "3. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map",
@@ -190,7 +188,7 @@ controlsAndNavigation: [
 * **Floor B1: Corporate Workspace, Manager's office, and Tennis Court (NPC Chloe Becker)**
   * Explore the server rack cluster and task center.
 
-* **Floor 1: Executive Boardroom Suite **
+* **Floor 1: Executive Boardroom Suite**
   * The starting zone where you spawn directly into the virtual workspace upon login.
 
 * **Floor 2: Meeting Room & Claire Wang ( 💡 NPC Claire Wang)**
