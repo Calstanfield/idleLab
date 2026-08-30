@@ -1,9 +1,13 @@
  **IdleLab© — Autonomous 3D Agentic Spatial Virtual Office Workspace** 
 
 **Developed by:** Benz-Carlton 
+
 **Contact:** benzcarltonheinz@gmail.com  
+
 **Test Link:** [idleLab AI Studio](https://idlelab-benzcarlton.ai.studio/)
-**Creation Date:** August 27th 2026 
+
+**Creation Date:** August 6th 2026 
+
 **IdleLab** is an interactive, spatial 3D WebGL virtual office workspace powered by an autonomous multi-agent cloud architecture. Driven by **Gemini 3.5 Flash**, the `@google/genai` TypeScript SDK, and **Google Cloud Firestore**, IdleLab transforms distributed remote work into a dynamic, real-time collaboration ecosystem where autonomous AI colleagues handle document orchestration, meeting facilitation, code governance, and workplace wellness.
 
 ---
