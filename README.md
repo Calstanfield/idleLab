@@ -181,9 +181,25 @@ controlsAndNavigation: [
     "2. Click and drag your mouse to rotate and adjust your camera view, just like Roblox",
     "3. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map",
     "4. Avatar Customization: Click on settings inside the navigation tool to customize your avatar's appearance to your liking",
-    "5. 💡 To test Claire Wang as your collaborative assistant, go to the 2nd floor (2F) and wave at or approach her"
-
+    "5. To test Claire Wang as your collaborative assistant, go to the 2nd floor (2F) and wave at her"
+    "6. 🎾 Tennis Court Tip: When playing at the tennis court on Floor 3, press the **Spacebar** if you want to smash the ball!
+    "7. Use the navigation toolbar to click the left and right panels to open the Pages & Layers view, which displays building floors and workspace integration shortcuts.
     
+**Floor Tour:**
 
-  
+* **Floor B1: Corporate Workspace, Manager's office, and Tennis Court (NPC Chloe Becker)**
+  * Explore the server rack cluster and task center.
+
+* **Floor 1: Executive Boardroom Suite **
+  * The starting zone where you spawn directly into the virtual workspace upon login.
+
+* **Floor 2: Meeting Room & Claire Wang ( 💡 NPC Claire Wang)**
+  * Meet Claire Wang from the second floor. Approach or wave at her to initialize presentation streams, view participant alignment scores, conduct executive votes, and cast live camera feeds or external tabs onto office monitors.
+
+* **Floor 3: Visitor Center Cafe**
+  * A scenic lounge for online coffee chats featuring an interactive tennis court to play on while waiting for meeting guests.
+
+
+YouTube demo:
+https://www.youtube.com/watch?v=SgWQh31mK54&list=PLfc0E4QM5zvA&index=1
   
