@@ -176,29 +176,14 @@ npm start
 Controls & Navigation:
 
 controlsAndNavigation: [
+    controlsAndNavigation: [
     "1. Use WASD keys or click your mouse in any direction to move your avatar smoothly around the office",
-    "2. Click and drag your mouse to rotate and adjust your camera view,just like Roblox",
-    "3. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map.",
-    "4. Avatar Customization: Click on settings inside the navigation tool to customize your avatar’s appearance to your liking."
-    "5. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map.",
+    "2. Click and drag your mouse to rotate and adjust your camera view, just like Roblox",
+    "3. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map",
+    "4. Avatar Customization: Click on settings inside the navigation tool to customize your avatar's appearance to your liking",
+    "5. 💡 To test Claire Wang as your collaborative assistant, go to the 2nd floor (2F) and wave at or approach her"
+
+    
+
   
-  floorTour: {
-    floorB1: {
-      name: "1. Floor B1 (Agentic Suite & Chloe Becker)",
-      description: "Meet Chloe Becker, your task master and supervisor. Open the left control panel to access the built-in multiagent workspace tools.",
-      tip: "💡 Judges Note: I have provided example prompts inside Swiftwrite! Feel free to copy one of those sample prompts from Swiftwrite to test Chloe live when exploring the multiagent workspace."
-    },
-    floor1: {
-      name: "2. Floor 1 (Entry Hub)",
-      description: "The starting zone where you spawn directly into the virtual workspace upon login."
-    },
-    floor2: {
-      name: "3. Floor 2 (Meeting Room & Claire Wang)",
-      description: "Approach Claire Wang to initialize presentation streams, view participant alignment scores, conduct executive votes, and cast live camera feeds or external tabs onto office monitors."
-    },
-    floor3: {
-      name: "4. Floor 3 (Cafeteria & Tennis Court)",
-      description: "A scenic lounge for online coffee chats featuring an interactive tennis court to play on while waiting for meeting guests, enhanced by an entertaining background music loop."
-    }
-  }
-};
+  
