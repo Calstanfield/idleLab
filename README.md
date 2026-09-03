@@ -88,7 +88,7 @@ Located at the **B1 Executive Data Center & Theater**, **Chloe Becker** is an au
 ### Spatial Awareness & Voice Synthesis:
 - **Proximity Gaze Engine:** Uses vector arithmetic to calculate yaw/pitch relative to the player, maintaining Pixar-style eye contact and blinking.
 - **Neural TTS:** Powered by **ElevenLabs Multilingual v2** (`EXAVITQu4vr4xnSDxMaL`) with instant fallback to the Web Speech API.
-- **Multilingual Support:** Live translation across English (`en-US`), Chinese (`zh-CN`), Spanish (`es-ES`), Japanese (`ja-JP`), French (`fr-FR`), and German (`de-DE`).
+
 
 ---
 
