@@ -176,7 +176,7 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
 * 4. Press E on any floor to instantly hop on a scooter for a fast joy ride across the map.
 * 5. Avatar Customization: Click on settings inside the navigation tool to customize your avatar's appearance to your liking.
 * 6. 💡 To test Claire Wang as your collaborative assistant, go to the 2nd floor (2F) and wave at or approach her.
-* 7. 🎾 Tennis Court Tip: When playing at the tennis court on Floor 3, press the **Spacebar** if you want to smash the ball!
+* 7. 🎾 Tennis Court Tip: When playing at the tennis court on Floor B1, press the **Spacebar** if you want to smash the ball!
 
 **Floor Tour:**
 
