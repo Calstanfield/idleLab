@@ -181,14 +181,13 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
 **Floor Tour:**
 
 **Floor B1: Agentic Suite**
-  * Explore the server rack cluster and task center.
-  * 💡 Judges Note: Feel free to test agent workflows live when exploring this level.
-
+  * Explore the server rack cluster and task center. 
+ 
 **Floor 1: Entry Hub**
   * The starting zone where you spawn directly into the virtual workspace upon login.
 
 **Floor 2: Meeting Room & Claire Wang**
-  * Meet Claire Wang from the second floor. Approach or wave at her to initialize presentation streams, view participant alignment scores, conduct executive votes, and cast live camera feeds or external tabs onto office monitors.
+  *💡 Meet Claire Wang from the second floor. Approach or wave at her to initialize presentation streams, view participant alignment scores, conduct executive votes, and cast live camera feeds or external tabs onto office monitors.
 
-**Floor 3: Cafeteria & Tennis Court**
-  * A scenic lounge for online coffee chats featuring an interactive tennis court to play on while waiting for meeting guests, enhanced by an entertaining background music loop.
+**Floor 3: Cafeteria**
+  * A scenic lounge for online coffee chats  
