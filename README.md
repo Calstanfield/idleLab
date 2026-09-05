@@ -180,14 +180,14 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
 
 **Floor Tour:**
 
-**Floor B1: Agentic Suite**
-  * Explore the server rack cluster and task center. 
+**Floor 3F: Visitor Center Cafe**
+  * Artisanal Coffee, Pastries & Paranomic Skyline. 
  
-**Floor 1: Entry Hub**
-  * The starting zone where you spawn directly into the virtual workspace upon login.
+ **Floor 2: Meeting Room & Claire Wang**
+  *💡Strategy Sync & Presentation Balcony 
+  
+**Floor 1: Main Open Office Workspace**
+  * Entry Hub with Collaborative Desk.
 
-**Floor 2: Meeting Room & Claire Wang**
-  *💡 Meet Claire Wang from the second floor. Approach or wave at her to initialize presentation streams, view participant alignment scores, conduct executive votes, and cast live camera feeds or external tabs onto office monitors.
-
-**Floor 3: Cafeteria**
-  * A scenic lounge for online coffee chats  
+**Floor B1: Corporate Workspace & Tennis Arena**
+  * Employee workstations and executive offices
