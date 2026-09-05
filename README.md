@@ -10,6 +10,9 @@
 
 **IdleLab** is an interactive, spatial 3D WebGL virtual office workspace powered by an autonomous multi-agent cloud architecture. Driven by **Gemini 3.5 Flash**, the `@google/genai` TypeScript SDK, and **Google Cloud Firestore**, IdleLab transforms distributed remote work into a dynamic, real-time collaboration ecosystem where autonomous AI colleagues handle document orchestration, meeting facilitation, code governance, and workplace wellness.
 
+**Purpose:** Our core priority is to eliminate the need for costly physical campuses and massive office buildings. We are designing a dynamic workspace tailored for remote workers and college students that bridges the gap between face-to-face collaboration and advanced prompt engineering. By harnessing a powerful AI infrastructure, small enterprises can substitute expensive real estate with intelligent NPCs. These virtual partners act as task managers and collaborative partners, enabling businesses to scale efficiently while hiring agile, non-traditional talent—specifically specialized AI prompt engineers, multi-agent workflow operators, and digitally native developers who excel without requiring a traditional degree or decades of corporate tenure.
+
+
 ---
 
 ## 🏛️ Systemic Agentic Cloud Logic & Architecture
