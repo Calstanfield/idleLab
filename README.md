@@ -4,7 +4,7 @@
 
 **Contact:** benzcarltonheinz@gmail.com  
 
-**Test Link:** [idleLab AI Studio]([https://idlelab-benzcarlton.ai.studio/](https://idlelab-benz-carlton-256989636247.asia-east1.run.app))
+**Test Link:** https://idlelab-benz-carlton-256989636247.asia-east1.run.app/
 
 **Creation Date:** August 6th 2026 
 
