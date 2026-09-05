@@ -186,8 +186,8 @@ The **AgentFlow Multiworkspace Modal** is the central productivity hub:
 **Floor 3F: Visitor Center Cafe**
   * Artisanal Coffee, Pastries & Panoramic Skyline. 
  
- **Floor 2: Meeting Room & Claire Wang**
-  *💡Strategy Sync & Presentation Balcony 
+ **Floor 2: Executive Boardroom Suite**
+  * Strategy Sync & Presentation Balcony
   
 **Floor 1: Main Open Office Workspace**
   * Entry Hub with Collaborative Desk.
